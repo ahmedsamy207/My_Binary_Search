@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1630293536 source:c:\users\ahmed\documents\new folder\my_binary_search\main.c
+	"Binary_search.h"
+
+1630293613 c:\users\ahmed\documents\new folder\my_binary_search\binary_search.h
+	<stdio.h>
+	<stdlib.h>
+	"STD_Types.h"
+
+1630293613 c:\users\ahmed\documents\new folder\my_binary_search\std_types.h
+
+1630293613 source:c:\users\ahmed\documents\new folder\my_binary_search\binary_search.c
+	"Binary_search.h"
+
